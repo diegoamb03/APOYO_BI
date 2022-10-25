@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T19:18:41.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PUZUwxYay68YdQ_2QBkk" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T22:00:06.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Jui5drcNqry-VC20IfG0" version="20.5.1" type="github">
   <diagram id="KEheOZSDRnFAOVTNEo1J" name="Page-1">
     <mxGraphModel dx="777" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,8 +40,20 @@
         <mxCell id="20881LHMaeagtFSTcZRP-5" value="Fundacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="390" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="20881LHMaeagtFSTcZRP-12" target="20881LHMaeagtFSTcZRP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="20881LHMaeagtFSTcZRP-12" value="Query Token&lt;br&gt;Condicional" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="20881LHMaeagtFSTcZRP-14" target="20881LHMaeagtFSTcZRP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-14" value="module: NITprompt&lt;br&gt;getdigits" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-17" value="case_module : opConfirmarNit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
