@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T22:00:06.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Jui5drcNqry-VC20IfG0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T22:26:33.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="C3yMG8_VXOSrsLBEDiV4" version="20.5.1" type="github">
   <diagram id="KEheOZSDRnFAOVTNEo1J" name="Page-1">
     <mxGraphModel dx="777" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="20881LHMaeagtFSTcZRP-17" value="case_module : opConfirmarNit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-19" value="getdigits&lt;br&gt;confirmarNit:&lt;br&gt;No se tiene en cuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="20881LHMaeagtFSTcZRP-20" value="getdigits&lt;br&gt;Menu_customer_alternativo:&lt;br&gt;No se tiene en cuenta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="750" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
