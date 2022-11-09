@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T02:03:03.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YajxhgBJpAUn2daFpieE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T02:14:01.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4hTbTnCMC0fifedOIKJG" version="20.5.3" type="github">
   <diagram id="KEheOZSDRnFAOVTNEo1J" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,8 +172,14 @@
         <mxCell id="luEgtZp0Y0wxGss-Jl07-46" value="Activo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="1550" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="luEgtZp0Y0wxGss-Jl07-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luEgtZp0Y0wxGss-Jl07-47" target="luEgtZp0Y0wxGss-Jl07-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="luEgtZp0Y0wxGss-Jl07-47" value="Inactivo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luEgtZp0Y0wxGss-Jl07-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luEgtZp0Y0wxGss-Jl07-48" target="luEgtZp0Y0wxGss-Jl07-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luEgtZp0Y0wxGss-Jl07-48" value="Suspendido" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="1550" width="60" height="30" as="geometry" />
@@ -183,6 +189,9 @@
         </mxCell>
         <mxCell id="luEgtZp0Y0wxGss-Jl07-49" value="No match" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luEgtZp0Y0wxGss-Jl07-56" value="OpAuto_Subestado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
