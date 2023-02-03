@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T02:19:55.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nNIj5SK_RJFEb_mz6LY_" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T13:57:07.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Cb4OPflYf8PqTGpFSFE0" version="20.8.16" type="github">
   <diagram name="Page-1" id="Z_qm95TK9x_NkWKvcv80">
-    <mxGraphModel dx="1196" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1329" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="2ZpKA0R-ezJA4kobz5fg-11" value="Tiempo promedio De abandono" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ZpKA0R-ezJA4kobz5fg-16" value="Fecha&lt;br&gt;Año, trimestre, mes, dia" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2ZpKA0R-ezJA4kobz5fg-16" value="Agente, Fecha" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="230" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2ZpKA0R-ezJA4kobz5fg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2ZpKA0R-ezJA4kobz5fg-29" target="2ZpKA0R-ezJA4kobz5fg-16" edge="1">
@@ -166,11 +166,66 @@
         <mxCell id="2ZpKA0R-ezJA4kobz5fg-60" value="# Chats abandonados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" parent="1" vertex="1">
           <mxGeometry x="560" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xDQfAND4jDk_aaM28RAM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xDQfAND4jDk_aaM28RAM-1" target="2ZpKA0R-ezJA4kobz5fg-16">
+        <mxCell id="xDQfAND4jDk_aaM28RAM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xDQfAND4jDk_aaM28RAM-1" target="2ZpKA0R-ezJA4kobz5fg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xDQfAND4jDk_aaM28RAM-1" value="Transferencias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+        <mxCell id="xDQfAND4jDk_aaM28RAM-1" value="Transferencias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QNK6vQCSbeHurkGapVe1-3" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-3" value="Hora Entrada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="800" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNK6vQCSbeHurkGapVe1-5" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-5" value="Hora Salida&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNK6vQCSbeHurkGapVe1-7" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-7" value="Tiempo Conexion&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-9" value="Tiempo after chat work" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-24" value="Agente, Fecha&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="150" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-31" value="Tiempo conexion Not ready" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-32" value="Tiempo Tiempo hablado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-33" value="Tiempo Ready&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QNK6vQCSbeHurkGapVe1-34" target="QNK6vQCSbeHurkGapVe1-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-34" value="Numero de Conexiones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-36" value="Tiempos Conexion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QNK6vQCSbeHurkGapVe1-37" value="Metricas Chat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="10" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
