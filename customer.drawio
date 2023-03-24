@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T14:39:23.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Aeksqd0-L0d1tlhi8xQS" version="21.0.6" type="github"><diagram name="Page-1" id="G8UHk-BXakolLkXAZOUy">7Zbfa9swEMf/Gj8O/GM2yWPjpSulg7FQBntTrKutTPZ5shwn++t3iuU4qtPQwUIp7MVInzv5pO+dDnlRWu4+K1YXX5CD9EKf77zokxeG8zihrwH7HsSzeQ9yJXiPghGsxG+w0Le0FRwax1EjSi1qF2ZYVZBphzGlsHPdnlC6UWuWwwSsMian9LvguujpLPZHfgciL4bIgW8tJRucLWgKxrE7QdHSi1KFqPtRuUtBGu0GXfp1ty9YjxtTUOnXLHj8lWgMisf15v7H5n79rfsq8w+R3ZveDwcGTue3U1S6wBwrJpcjXShsKw7mrz7NRp8HxJpgQHADWu9tMlmrkVChS2mtfUwT6MWjWNRgqzK4sP+hJJjKQV/wC4+CU6EClqDVntYpkEyLrbsPZksmP/qNqtLACvsXItv/bplsbaSbdQNVRnX9XP1RWyNUVwgNq5odJOjofp3TcQtKw+6yktOTD/fTFufenXZjqQdD/RYnZZ74V5IqnEgVmDClFyaSYi/Wika5GZkGkZIxTepyIiMJol2tGq3wJ6QoURGpsDKV/CSkfIaYFHlF04wEBOILI6+gfnBjDaXg/HANziXHvRr/ID+R7yYo8ONJhpIzCYqulaCP77xhxK9sGMlbNoz43TSMYPbWHSP53zEud4z51ToGTcfny8F28gaMln8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-24T14:40:22.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uzC26tahGL_P9u1nxgyO" version="21.0.6" type="github">
+  <diagram name="Page-1" id="G8UHk-BXakolLkXAZOUy">
+    <mxGraphModel dx="956" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uq6to1hUbjJZjJbRwPlg-1" target="Uq6to1hUbjJZjJbRwPlg-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-1" value="Absences" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-2" value="1 am&lt;br&gt;10,1,6pm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Uq6to1hUbjJZjJbRwPlg-5" target="Uq6to1hUbjJZjJbRwPlg-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-5" value="call log db, call_segment db&lt;br&gt;chat_log_db&lt;br&gt;worksheet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uq6to1hUbjJZjJbRwPlg-6" value="9pm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
